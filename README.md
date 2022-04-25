@@ -64,7 +64,7 @@ All the credit goes to the respectiv creators of these mods.
 		- If you have the Complete Edition, you have only the GTA IV folder, so you'll have to copy the TLAD and TBoGT related files from the EFLC folder of the mod and install them over your TLAD and TBoGT folders.
 
 + **Customizable Niko:**
-	- Link: https://www.gtainside.com/en/gta4/skins/165768-customizable-niko/download/\
+	- Link: https://www.gtainside.com/en/gta4/skins/165768-customizable-niko
 	- Notes: Exclude common folder, Potential Grim uses it.
 
 + **Various Pedestrian Actions:**
