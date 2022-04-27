@@ -85,6 +85,9 @@ All the credit goes to the respectiv creators of these mods.
 + **Declasse Classic Taxicar:**
 	- Link: https://www.gtainside.com/en/gta4/cars/114692-declasse-classic-taxicar/
 
++ **Project Birds**
+	- Link: https://gtaforums.com/topic/980018-project-birds/
+
 ### OPTIONAL MODS:
 
 + **GTAIV .Net ScriptHook v1.7.1.8:**
