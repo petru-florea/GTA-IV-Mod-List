@@ -88,6 +88,9 @@ All the credit goes to the respectiv creators of these mods.
 + **Project Birds**
 	- Link: https://gtaforums.com/topic/980018-project-birds/
 
++ **More Visible Interiors**
+	- Link: https://gtaforums.com/topic/974099-more-visible-interiors/
+
 ### OPTIONAL MODS:
 
 + **GTAIV .Net ScriptHook v1.7.1.8:**
